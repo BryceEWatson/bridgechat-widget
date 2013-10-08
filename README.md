@@ -5,4 +5,4 @@ An easy to use Javascript/HTML5 widget that will allow anyone to add WebRTC conn
 
 ## Early UI Concept
 
-![My image](/design/mocks/BridgeChat-WidgetMock_v1.png)
+![My image](https://raw.github.com/BryceEWatson/bridgechat-widget/master/design/mocks/BridgeChat-WidgetMock_v1.PNG)
